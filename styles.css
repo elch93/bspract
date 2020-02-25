@@ -11,10 +11,22 @@
 }
 
 #footer{
-    height:250px;
+    display: flex;
+    height:auto;
     width: 100%;
-    background-color:grey;
-   border: 1px black solid;
+<<<<<<< HEAD
+    background-color:rgb(39, 38, 38);
+    color: white;
+}
+
+.footer-copyright a{
+    text-decoration: none;
+    color: white;
+}
+
+.list-unstyled a{
+    font-size: 10px;
+    color: grey;
 }
 
 .col {
