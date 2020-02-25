@@ -14,5 +14,9 @@
     height:250px;
     width: 100%;
     background-color:grey;
-    border: 1px black solid;
+   border: 1px black solid;
+}
+
+.col {
+    padding:0 !important;
 }
