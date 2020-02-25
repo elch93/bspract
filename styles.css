@@ -12,10 +12,20 @@
 
 #footer{
     display: flex;
-    height:auto;;
+    height:auto;
     width: 100%;
     background-color:rgb(39, 38, 38);
     color: white;
+}
+
+.footer-copyright a{
+    text-decoration: none;
+    color: white;
+}
+
+.list-unstyled a{
+    font-size: 10px;
+    color: grey;
 }
 
 .footer-copyright a{
