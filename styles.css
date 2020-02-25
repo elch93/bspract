@@ -7,7 +7,7 @@ body{
 }
 
 #hero {
-    height: 700px;
+    height: 650px;
 }
 
 #logo {
@@ -47,3 +47,6 @@ body{
     padding:0 !important;
 }
 
+#gdll {
+    width: 100%;
+}
